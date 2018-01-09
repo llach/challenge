@@ -3,8 +3,11 @@
 challenge2018.pdf: task and rule description
 
 map_2018.png: map of arena and designated locations
+
 A: Start
+
 B: Party Room
+
 C: Bar
 
 name_set.txt: set of names the robot can encounter
